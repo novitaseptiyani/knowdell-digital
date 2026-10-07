@@ -4,7 +4,12 @@ Platform asesmen kartu karier digital dengan tiga peran: pengguna,
 konselor, dan admin.
 
 ## Tampilan
-(screenshot ditambahkan di sini)
+![Beranda](screenshots/Beranda.png)
+![Login](screenshots/Login.png)
+![HalamanUser](screenshots/HalamanUser.png)
+![SesiTes](screenshots/SesiTes.png)
+![HasilTes](screenshots/HasilTes.png)
+![ModeGelap](screenshots/ModeGelap.png)
 
 ## Fitur Utama
 **Pengguna**
